@@ -1,0 +1,6 @@
+.container .mobile-firstsection {
+    display: flex;
+    max-width: 350px;
+    flex-direction: column;
+    margin: 5px;
+}
